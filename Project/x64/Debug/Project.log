@@ -1,0 +1,14 @@
+﻿  main.cpp
+E:\C# and C++\Project\Project\Logic.h(9,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "../../../C#%20and%20C++/Project/Project/main.cpp")
+  
+E:\C# and C++\Project\Project\Logic.h(228,51): warning C4805: !=: небезопасное смешение типа "int" и типа "const bool" в операции
+  (компиляция исходного файла "../../../C#%20and%20C++/Project/Project/main.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+main.obj : warning LNK4248: неразрешенная лексема TypeRef (0100001B) для "SDL_Renderer"; образ нельзя запустить
+main.obj : warning LNK4248: неразрешенная лексема TypeRef (0100001D) для "SDL_Window"; образ нельзя запустить
+main.obj : warning LNK4248: неразрешенная лексема TypeRef (01000021) для "SDL_Texture"; образ нельзя запустить
+  Project.vcxproj -> E:\C# and C++\Project\x64\Debug\Project.exe
